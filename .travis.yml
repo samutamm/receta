@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure: mPklhkfbbYKkR3HxUTVvb3mT3DKeCfwJ382TFiwM/uo15Jd2Bg7+eDmtOV7DCzGGN/xgSeriuDfewPAOK3kn4QCDn7zMWzZ2gIRafOsWXoV/7h76FWHhfbg8brseiAICL4p+k+9zvQpjj/Zk8IPISfDcNB/+H7CM1bN7F7gyyho=
+  app: cryptic-cove-8831
+  on:
+    repo: samutamm/receta
