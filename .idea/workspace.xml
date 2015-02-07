@@ -100,8 +100,8 @@
       <file leaf-file-name="app.coffee" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/app.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="432">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            <state vertical-scroll-proportion="-5.888889" vertical-offset="291" max-vertical-offset="900">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -120,12 +120,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1231527" vertical-offset="0" max-vertical-offset="792">
-              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.30201343" vertical-offset="0" max-vertical-offset="596">
+              <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
               <folding>
-                <element signature="n#style#0;n#h1#0;n#section#0;n#section#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#section#1;n#section#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#section#2;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#section#0;n#li#0;n#ul#0;n#section#1;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,8 +146,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Bowerfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/app.coffee" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/app.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/templates/index.html" />
       </list>
     </option>
@@ -747,8 +745,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/app.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="432">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        <state vertical-scroll-proportion="-5.888889" vertical-offset="291" max-vertical-offset="900">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -763,12 +761,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1231527" vertical-offset="0" max-vertical-offset="792">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.30201343" vertical-offset="0" max-vertical-offset="596">
+          <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
           <folding>
-            <element signature="n#style#0;n#h1#0;n#section#0;n#section#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#section#1;n#section#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#section#2;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#li#0;n#ul#0;n#section#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
