@@ -97,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.coffee" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.coffee" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/app.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.888889" vertical-offset="291" max-vertical-offset="900">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.5566502" vertical-offset="291" max-vertical-offset="900">
+              <caret line="35" column="84" selection-start-line="35" selection-start-column="84" selection-end-line="35" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -117,10 +117,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30201343" vertical-offset="0" max-vertical-offset="596">
+            <state vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="594">
               <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#section#0;n#li#0;n#ul#0;n#section#1;n#!!top" expanded="true" />
@@ -147,8 +147,8 @@
         <option value="$PROJECT_DIR$/Bowerfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/app.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/templates/index.html" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/app.coffee" />
       </list>
     </option>
   </component>
@@ -743,14 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/app.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.888889" vertical-offset="291" max-vertical-offset="900">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="180">
@@ -761,11 +753,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30201343" vertical-offset="0" max-vertical-offset="596">
+        <state vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="594">
           <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#section#0;n#li#0;n#ul#0;n#section#1;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/app.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5566502" vertical-offset="291" max-vertical-offset="900">
+          <caret line="35" column="84" selection-start-line="35" selection-start-column="84" selection-end-line="35" selection-end-column="84" />
+          <folding />
         </state>
       </provider>
     </entry>
