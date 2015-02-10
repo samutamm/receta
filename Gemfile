@@ -11,6 +11,7 @@ gem 'jbuilder'
 
 gem 'bower-rails'
 gem 'angular-rails-templates'
+gem "chromedriver-helper"
 
 gem "foreman"
 group :production, :staging do
@@ -21,7 +22,7 @@ end
 
 group :test, :development do
   gem "rspec"
-  #gem "rspec-rails", "~> 2.0"
+  gem "rspec-rails"
   gem "factory_girl_rails", "~> 4.0"
   gem "capybara"
   gem "database_cleaner"
